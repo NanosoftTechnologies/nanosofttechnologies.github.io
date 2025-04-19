@@ -39,6 +39,7 @@ The true power of Nanosoft Technologies emerges from the seamless integration of
 
 ---
 
-**Contact Us:** [mailto: support@m.nanosoft.zone.id]
-**Learn More:** [https://nanosoft.zone.id]
+**Contact Us:** [support@m.nanosoft.zone.id](mailto:support@m.nanosoft.zone.id)
+
+**Learn More:** [https://nanosoft.zone.id](https://nanosoft.zone.id)
 
